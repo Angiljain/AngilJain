@@ -43,20 +43,6 @@ Computer Science Undergraduate (B.E. @ RVITM) with a 9.125 GPA, passionate about
 ---
 
 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angiljain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angiljain&theme=tokyonight&hide_border=true" width="96%" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
