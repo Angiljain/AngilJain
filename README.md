@@ -1,4 +1,4 @@
-ANGIL JAIN
+# ANGIL JAIN
 
 Computer Science Undergraduate (B.E. @ RVITM) with a 9.125 GPA, passionate about **Full-Stack Engineering, Distributed Systems, Machine Learning, and Generative AI**.
 
