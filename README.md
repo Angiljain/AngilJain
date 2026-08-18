@@ -10,7 +10,7 @@ Computer Science Undergraduate (B.E. @ RVITM) with a 9.125 GPA, passionate about
 - 🏆 **Achievements:** 1st Place in *Code Battle RoboFiesta'25* & *Puzzle Mania'25*
 - 🛠️ **Current Focus:** Building scalable GenAI engines, RAG pipelines & high-throughput web applications
 - 💼 **Portfolio:** [angiljain.vercel.app](https://angiljain.vercel.app)
-- 📫 **Reach me at:** [angiljain1111@gmail.com](mailto:angiljain1111@gmail.com) | [+91 7062943910](tel:+917062943910)
+- 📫 **Reach me at:** [angiljain1111@gmail.com](mailto:angiljain1111@gmail.com) 
 
 ---
 
